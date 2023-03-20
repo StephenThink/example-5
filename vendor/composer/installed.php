@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'stephen/example-1',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'stephen/example-5',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '04c50c6af39e6ab7756f19a30dc6f7dc7a2edc77',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -235,10 +235,10 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
-        'stephen/example-1' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'stephen/example-5' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '04c50c6af39e6ab7756f19a30dc6f7dc7a2edc77',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
